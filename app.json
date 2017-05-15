@@ -1,0 +1,11 @@
+{
+  "name": "turbo-potato",
+  "description": "App for job interview at Suplo®",
+  "repository": "https://github.com/cikasfm/turbo-potato",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static", "react"],
+  "image": "heroku/nodejs",
+  "env": {
+    "SECRET": "production"
+  }
+}
