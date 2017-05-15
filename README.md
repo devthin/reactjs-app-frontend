@@ -8,9 +8,15 @@ We have a simple API that returns a JSON array. We would like you to fork this r
 
 To run api on your machine just run `npm install` and `npm run dev`. API is reachable via `http://localhost:8000/`.
 
-To get data from API just call `http://localhost:8000/beer`. 
+To get data from API just call `http://localhost:8000/beer`.
 
 Oh! One more thing – you **have** to send `Authorization: VerySecretToken` header to access the data.
+
+# Deployment
+
+Please deploy your finshed application to `heroku`, you can use this button to start:
+
+[![deploy to heroky](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cikasfm/turbo-potato)
 
 # Additional info
 
