@@ -1,6 +1,6 @@
 {
-  "name": "turbo-potato",
-  "description": "App for job interview at Suplo®",
+  "name": "frontend-test",
+  "description": "Test excercise for frontend developer",
   "repository": "https://github.com/MSiliunas/turbo-potato",
   "logo": "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg",
   "keywords": ["node", "express", "static", "react"],
