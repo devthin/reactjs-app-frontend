@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    text-align: left;
+}
+
+#beer-house td,
+#beer-house th {
+    width: 100px;
+    padding: 0 0 0 5px;
+}
+
+#beer-house th {
+    cursor: pointer;
+    font-size: 18px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
