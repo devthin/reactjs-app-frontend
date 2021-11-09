@@ -16,7 +16,7 @@ Oh! One more thing – you **have** to send `Authorization: VerySecretToken` hea
 
 Please deploy your finshed application to `heroku`, you can use this button to start:
 
-[![deploy to heroky](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MSiliunas/turbo-potato)
+[![deploy to heroky](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mindaugus/turbo-potato)
 
 # Additional info
 
