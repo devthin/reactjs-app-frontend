@@ -1,7 +1,7 @@
 {
-  "name": "frontend-test",
+  "name": "reactjs-app-frontend",
   "description": "Test excercise for frontend developer",
-  "repository": "https://github.com/Mindaugus/turbo-potato",
+  "repository": "https://github.com/devthin/reactjs-app-frontend",
   "logo": "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg",
   "keywords": ["node", "express", "static", "react"],
   "image": "heroku/nodejs",

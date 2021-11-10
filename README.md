@@ -16,8 +16,8 @@ Oh! One more thing – you **have** to send `Authorization: VerySecretToken` hea
 
 Please deploy your finshed application to `heroku`, you can use this button to start:
 
-[![deploy to heroky](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mindaugus/turbo-potato)
+[![deploy to heroky](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devthin/reactjs-app-frontend)
 
 # Additional info
 
-If you have any questions please feel free to contact us at justin@suplo.com
+If you have any questions please feel free to contact us at cikasfm@gmail.com

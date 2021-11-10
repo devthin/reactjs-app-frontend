@@ -1,5 +1,5 @@
 {
-  "name": "frontend-test",
+  "name": "reactjs-app-frontend",
   "version": "1.0.0",
   "description": "Test excercise for frontend developer",
   "main": "server.js",
@@ -7,13 +7,13 @@
     "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Suplo Procurement",
+  "author": "Thin Dev®",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.11.0"
+    "nodemon": "^2.0.15"
   },
   "dependencies": {
-    "body-parser": "^1.17.1",
-    "express": "^4.15.2"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
   }
 }
